@@ -1,0 +1,101 @@
+{
+  "source": "2038.pdf",
+  "page_id_convention": "page_<zero-based PDF page index>; PDF viewer page number = index + 1",
+  "label_policy": "1 = manually verified supporting page. Unlisted pages are unjudged, not negative. Positive labels are not exhaustive.",
+  "queries": [
+    {
+      "query_id": "q1",
+      "query_text": "Does Sterling Bronson have a mag?",
+      "labels": {
+        "page_86": 1,
+        "page_87": 1
+      }
+    },
+    {
+      "query_id": "q2",
+      "query_text": "What did Darren Walsh do for Work in 2027?",
+      "labels": {
+        "page_66": 1
+      }
+    },
+    {
+      "query_id": "q3",
+      "query_text": "Which pub does Winston Reed regularly visit?",
+      "labels": {
+        "page_5": 1,
+        "page_8": 1,
+        "page_16": 1
+      }
+    },
+    {
+      "query_id": "q4",
+      "query_text": "What town is this novel set in?",
+      "labels": {
+        "page_3": 1
+      }
+    },
+    {
+      "query_id": "q5",
+      "query_text": "Who is Grace?",
+      "labels": {
+        "page_16": 1,
+        "page_17": 1
+      }
+    },
+    {
+      "query_id": "q6",
+      "query_text": "Which chapter first introduces Cassie May?",
+      "labels": {
+        "page_33": 1
+      }
+    },
+    {
+      "query_id": "q7",
+      "query_text": "Which social or occupational class does Cassie belong to?",
+      "labels": {
+        "page_41": 1,
+        "page_45": 1,
+        "page_46": 1
+      }
+    },
+    {
+      "query_id": "q8",
+      "query_text": "What are cats?",
+      "labels": {
+        "page_4": 1,
+        "page_7": 1,
+        "page_8": 1,
+        "page_9": 1,
+        "page_90": 1,
+        "page_91": 1
+      }
+    },
+    {
+      "query_id": "q9",
+      "query_text": "what are transistors?",
+      "labels": {
+        "page_4": 1,
+        "page_9": 1,
+        "page_89": 1,
+        "page_90": 1,
+        "page_91": 1
+      }
+    },
+    {
+      "query_id": "q10",
+      "query_text": "does sterling own the transistors?",
+      "labels": {
+        "page_89": 1
+      }
+    },
+    {
+      "query_id": "q11",
+      "query_text": "what are the people who own the transistors referred to?",
+      "labels": {
+        "page_26": 1,
+        "page_27": 1,
+        "page_89": 1
+      }
+    }
+  ]
+}
